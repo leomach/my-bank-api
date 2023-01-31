@@ -1,0 +1,63 @@
+2023-01-25T21:37:51.929Z [my-bank-api] info: listening on 3000
+2023-01-25T21:56:23.093Z [my-bank-api] info: listening on 3000
+2023-01-28T16:22:11.289Z [my-bank-api] info: listening on 3000
+2023-01-28T16:23:55.805Z [my-bank-api] info: POST /account - {"id":5,"name":"Lucas Alves","balance":24441.5}
+2023-01-29T17:41:52.514Z [my-bank-api] info: listening on 3000
+2023-01-29T17:42:29.596Z [my-bank-api] info: PUT /account - {"id":4,"name":"Leticia Alves","balance":24841.5}
+2023-01-29T17:42:33.047Z [my-bank-api] info: PATCH /account/updateBalance - {"id":4,"balance":24861.5}
+2023-01-29T17:42:37.042Z [my-bank-api] info: GET /account
+2023-01-29T17:42:39.784Z [my-bank-api] info: GET /account/:id
+2023-01-29T17:42:45.834Z [my-bank-api] info: GET /account/:id
+2023-01-29T17:42:58.037Z [my-bank-api] info: DELETE /account/:id - 2
+2023-01-29T17:43:03.202Z [my-bank-api] info: GET /account/:id
+2023-01-29T17:44:05.952Z [my-bank-api] info: listening on 3000
+2023-01-29T17:45:28.242Z [my-bank-api] info: listening on 3000
+2023-01-29T17:50:46.148Z [my-bank-api] info: listening on 3000
+2023-01-29T17:50:50.656Z [my-bank-api] info: listening on 3000
+2023-01-29T17:51:32.940Z [my-bank-api] info: listening on 3000
+2023-01-29T17:51:33.971Z [my-bank-api] info: listening on 3000
+2023-01-29T18:11:03.860Z [my-bank-api] info: listening on 3000
+2023-01-29T18:11:56.727Z [my-bank-api] info: listening on 3000
+2023-01-29T18:12:06.908Z [my-bank-api] info: listening on 3000
+2023-01-29T18:12:25.133Z [my-bank-api] info: POST /account - {"id":6,"name":"Lucas Alves","balance":24441.5}
+2023-01-29T18:12:31.961Z [my-bank-api] info: GET /account
+2023-01-29T18:12:41.686Z [my-bank-api] info: PUT /account - {"id":6,"name":"Leticia Alves","balance":24841.5}
+2023-01-29T18:12:50.384Z [my-bank-api] info: PATCH /account/updateBalance - {"id":6,"balance":24861.5}
+2023-01-29T18:12:54.719Z [my-bank-api] info: GET /account/:id
+2023-01-29T18:13:00.146Z [my-bank-api] info: DELETE /account/:id - 6
+2023-01-29T18:13:02.999Z [my-bank-api] info: GET /account/:id
+2023-01-29T18:16:25.262Z [my-bank-api] info: listening on 3000
+2023-01-29T18:21:23.089Z [my-bank-api] info: listening on 3000
+2023-01-29T18:22:35.022Z [my-bank-api] info: listening on 3000
+2023-01-29T18:22:40.150Z [my-bank-api] info: GET /account
+2023-01-29T18:45:45.920Z [my-bank-api] info: listening on 3000
+2023-01-29T18:45:47.129Z [my-bank-api] info: listening on 3000
+2023-01-29T18:45:54.499Z [my-bank-api] info: GET /account
+2023-01-29T18:46:02.303Z [my-bank-api] info: POST /account - {"id":7,"name":"Lucas Alves","balance":24441.5}
+2023-01-29T18:46:11.971Z [my-bank-api] info: PUT /account - {"id":7,"name":"Leticia Alves","balance":24841.5}
+2023-01-29T18:46:17.063Z [my-bank-api] error: PATCH /account - Registro não encontrado
+2023-01-29T18:46:23.097Z [my-bank-api] info: GET /account/:id
+2023-01-29T18:46:27.531Z [my-bank-api] info: DELETE /account/:id - 7
+2023-01-29T18:46:30.593Z [my-bank-api] error: GET /account - Registro não encontrado
+2023-01-29T18:47:30.734Z [my-bank-api] info: listening on 3000
+2023-01-29T18:47:44.595Z [my-bank-api] info: listening on 3000
+2023-01-30T13:34:16.891Z [my-bank-api] info: listening on 3000
+2023-01-30T13:34:24.948Z [my-bank-api] info: listening on 3000
+2023-01-30T18:52:18.351Z [my-bank-api] info: listening on 3000
+2023-01-30T19:00:25.340Z [my-bank-api] info: listening on 3000
+2023-01-30T19:09:47.096Z [my-bank-api] info: listening on 3000
+2023-01-30T19:12:36.038Z [my-bank-api] info: listening on 3000
+2023-01-30T19:12:44.967Z [my-bank-api] info: listening on 3000
+2023-01-30T19:16:00.759Z [my-bank-api] info: listening on 3000
+2023-01-30T19:16:26.239Z [my-bank-api] info: listening on 3000
+2023-01-30T19:16:38.135Z [my-bank-api] info: listening on 3000
+2023-01-30T19:17:31.217Z [my-bank-api] info: listening on 3000
+2023-01-30T19:18:10.465Z [my-bank-api] info: listening on 3000
+2023-01-30T19:20:01.389Z [my-bank-api] info: listening on 3000
+2023-01-30T19:22:11.296Z [my-bank-api] info: listening on 3000
+2023-01-30T19:22:15.455Z [my-bank-api] info: listening on 3000
+2023-01-30T19:28:09.817Z [my-bank-api] info: listening on 3000
+2023-01-30T19:29:06.453Z [my-bank-api] info: listening on 3000
+2023-01-30T19:32:01.202Z [my-bank-api] info: listening on 3000
+2023-01-30T19:34:07.616Z [my-bank-api] info: listening on 3000
+2023-01-30T19:42:49.070Z [my-bank-api] info: listening on 3000

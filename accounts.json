@@ -1,0 +1,35 @@
+{
+  "nextId": 12,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Leandro Machado",
+      "balance": 200
+    },
+    {
+      "id": 4,
+      "name": "Leticia Alves",
+      "balance": 24861.5
+    },
+    {
+      "id": 5,
+      "name": "Lucas Alves",
+      "balance": 24441.5
+    },
+    {
+      "id": 8,
+      "name": "Guilherme",
+      "balance": 1000
+    },
+    {
+      "id": 9,
+      "name": "Guilherme farias",
+      "balance": 2000
+    },
+    {
+      "id": 11,
+      "name": "Guilherme",
+      "balance": 1000
+    }
+  ]
+}
